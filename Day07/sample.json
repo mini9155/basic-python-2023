@@ -1,0 +1,14 @@
+{
+    "name" : "peter Parker",
+    "age"  : 20,
+    "hero_name" : "spider-man",
+    "weapon" : "Web shooter",
+    "day Of Week" : 
+    [
+        {"월":0}, 
+        {"화":1},
+        {"수":2}, 
+        {"목":3}, 
+        {"금":4}
+    ] 
+    }
